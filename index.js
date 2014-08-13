@@ -2,7 +2,7 @@ var ip = require('ip');
 var restify = require('restify');
 
 var server = restify.createServer({
-  name: 'demo'
+  name: 'demo-api'
 });
 
 server.get('/', function (req, res, next) {
