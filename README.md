@@ -1,3 +1,3 @@
 # Demo-Api
 
-For demos and stuff.
+For demos with paz.
